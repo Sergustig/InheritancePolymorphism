@@ -27,6 +27,7 @@ namespace InheritancePolymorphism
         // Данный Constructor  имеет 2 параметра.
         // Цель инициализировать значения для 2 полей имени и даты рождения для Person.
         // Место рождения не инициализируется.
+        // пробуем git
         public Person(String Name, int BornYear)
         {
             this.Name = Name;
