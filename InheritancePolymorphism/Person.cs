@@ -18,6 +18,7 @@ namespace InheritancePolymorphism
         // Цель инициализировать значения для полей Person.
         // Определить ясно имя, дату рождения, место рождения.
         // Еще один комментарий
+        // Комментарий для новой ветки feature/task13
         public Person(String Name, int BornYear, String PlaceOfBirth)
         {
             this.Name = Name;
