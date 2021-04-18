@@ -17,6 +17,7 @@ namespace InheritancePolymorphism
         // Данный Constructor  имеет 3 параметра.
         // Цель инициализировать значения для полей Person.
         // Определить ясно имя, дату рождения, место рождения.
+        // Еще один комментарий
         public Person(String Name, int BornYear, String PlaceOfBirth)
         {
             this.Name = Name;
